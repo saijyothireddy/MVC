@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LHM.DataAccess/LHM.DataAccess.csproj" />
+  <Project Path="LHM.Service/LHM.Service.csproj" />
+  <Project Path="LHM.Web/LHM.Web.csproj" />
+</Solution>
